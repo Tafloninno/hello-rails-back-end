@@ -44,7 +44,7 @@ A simple rails react app using Api
 
 ## Link to the front-end repository <a name="Link to the front-end repository "></a>
   
-  [hello-react-front-end](./https://github.com/Tafloninno/hello-react-front-end/tree/api)
+  [hello-react-front-end](https://github.com/Tafloninno/hello-react-front-end/tree/api)
 
 <!-- Features -->
 
